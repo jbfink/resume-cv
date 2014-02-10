@@ -76,7 +76,7 @@ de jesus, nina. 2013. "The Tyranny of Open". York University. http://hdl.handle.
 
 # Papers Presented at Conferences
 
-"On Building a CAIRN," lightening talk at Islandora Camp 2011, University of Prince Edward Island, July 20-22, 2011.
+"On Building a CAIRN," lightning talk at Islandora Camp 2011, University of Prince Edward Island, July 20-22, 2011.
 
 "The Empirical Limits of Holism," panel on "New Frontiers: Cognitive Science and Early Chinese Religion," at the American Academy of Religion 2010 Pacific Northwest Regional Conference, University of Victoria, May 7-9, 2010.
 
